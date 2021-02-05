@@ -53,7 +53,7 @@ body {
 .intro__photo {
     width: 50%;
     position: absolute;
-    bottom: 80px;
+    top: 70px;
     right: 120px;
     z-index: 1;
 }
